@@ -122,6 +122,10 @@ Run tests using:
 - Not intended for multi-user systems  
 - Basic billing (no taxes or extra services)
 
+## USAGE
+### `main.py`
+To launch this application, run the main excutable file.
+
 ## Author
 **Yash Pratap Singh**  
 **25MIM10193**
